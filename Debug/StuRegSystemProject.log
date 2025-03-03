@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\Thilina Kasun\source\repos\StuRegSystemProject\StuRegSystemProject\MyForm.h(242,21): warning C4101: 'e': unreferenced local variable
+  MyForm1.cpp
+  MyForm2.cpp
+  MyForm3.cpp
+  MyForm4.cpp
+  MyForm5.cpp
+  MyForm6.cpp
+  MyForm7.cpp
+  MyForm8.cpp
+  MyForm9.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : error LNK2001: unresolved external symbol _main
+C:\Users\Thilina Kasun\source\repos\StuRegSystemProject\Debug\StuRegSystemProject.exe : fatal error LNK1120: 1 unresolved externals
